@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Python, Javascript**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **guillermo18zgordon@gmail.com**
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
@@ -59,11 +59,11 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guillermo-gordon18-2000&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-gordon18-2000&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-gordon18-2000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **guillermo-gordon18-2000/guillermo-gordon18-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

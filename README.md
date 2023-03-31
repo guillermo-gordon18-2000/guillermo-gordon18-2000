@@ -2,8 +2,7 @@
     <img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47txj6pffakhqjqjgnoisu2rbz38fwvvasdvohwxrc&rid=giphy.gif&ct=g" width="200" />
     <h1 align="center">👋Mi nombre es Guillermo Gordon </h1>
     <h3 align="center">Me apasiona crear soluciones innovadoras y eficientes mediante el uso de tecnologías de vanguardia. A lo largo de mi carrera he adquirido habilidades en diversas áreas, como programación web, bases de datos y desarrollo móvil. Me considero una persona proactiva, autodidacta y comprometida con la calidad en mi trabajo.
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+        </h3>
 </div>
 
 

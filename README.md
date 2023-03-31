@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47txj6pffakhqjqjgnoisu2rbz38fwvvasdvohwxrc&rid=giphy.gif&ct=g" width="200" />
     <h1 align="center">👋Mi nombre es Guillermo Gordon </h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
+    <h3 align="center">de software. Me apasiona crear soluciones innovadoras y eficientes mediante el uso de tecnologías de vanguardia. A lo largo de mi carrera he adquirido habilidades en diversas áreas, como programación web, bases de datos y desarrollo móvil. Me considero una persona proactiva, autodidacta y comprometida con la calidad en mi trabajo. Estoy a la disposición de empresas que busquen un profesional altamente capacitado y con experiencia en el campo del desarrollo de software.
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
         YouDevs.</h3>
 </div>

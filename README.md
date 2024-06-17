@@ -63,7 +63,9 @@
 - 🚀 Desarrollador apasionado por **PHP, Laravel, Python y JavaScript**.
 - 📫 Puedes contactarme en **guillermo18zgordon@gmail.com**.
 - 🌱 Actualmente explorando **React.js, Blockchain, Web3 y Solidity**.
-- 🌐 Visita mi sitio web: [[portafolio](https://portafolio-6545.web.app/)]
+
+- 🌐 Visita mi sitio web     [![portafolio](https://img.shields.io/badge/portafolio-Visit-1abc9c)](https://portafolio-6545.web.app/)
+
 
 
 

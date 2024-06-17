@@ -21,6 +21,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -82,8 +83,8 @@
 ---
 
 ### 📚 Mis Lenguajes Más Usados:
-
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-gordon18-2000&hide_border=true&theme=radical&langs_count=6)](https://github.com/guillermo-gordon18-2000)
+| [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-gordon18-2000&hide_border=true&theme=radical&langs_count=6)](https://github.com/guillermo-gordon18-2000) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guillermo-gordon18-2000&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guillermo-gordon18-2000&theme=tokyonight&utcOffset=8) |
+|---|---|---|
 
 <div>
 

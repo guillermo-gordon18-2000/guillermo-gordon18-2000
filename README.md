@@ -24,6 +24,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -82,7 +83,7 @@
 
 ### 📚 Mis Lenguajes Más Usados:
 
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-gordon18-2000&layout=compact&theme=radical&langs_count=6)](https://github.com/guillermo-gordon18-2000)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-gordon18-2000&hide_border=true&theme=radical&langs_count=6)](https://github.com/guillermo-gordon18-2000)
 
 <div>
 
